@@ -7,6 +7,7 @@ Please consider contributing to the list with a pull request. For that, check ou
 ## Summary
 
 - **Globals**
+  - <a href="#git">Git</a>
 - **Linux**
 - **Design**
 - **Frontend**
@@ -18,7 +19,7 @@ Please consider contributing to the list with a pull request. For that, check ou
 
 ## Globals
 
-- VCS (Git)
+- Git
 - Markdown
 
 ## Linux
@@ -51,6 +52,8 @@ Please consider contributing to the list with a pull request. For that, check ou
 - Kubernetes
 
 ## Blockchain, Crypto, Web 3.0
+
+## Security
 
 ## Miscellaneous
 
