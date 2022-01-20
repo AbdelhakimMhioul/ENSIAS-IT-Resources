@@ -19,37 +19,47 @@ Please consider contributing to the list with a pull request. For that, check ou
 
 ## Globals
 
-- Git
-- Markdown
+### Git
+
+### Markdown
 
 ## Linux
 
-- Debian
-- Arch
+### Debian
+
+### Arch
 
 ## Design
 
-- CSS, Animations
-- TailwindCSS
-- Fonts
+### CSS, Animations
+
+### TailwindCSS
+
+### Fonts
 
 ## Frontend
 
-- JavaScript, TypeScript
-- ReactJS, NextJS
-- VueJS, NuxtJS
-- Svelte, SvelteKit
+### JavaScript, TypeScript
+
+### ReactJS, NextJS
+
+### VueJS, NuxtJS
+
+### Svelte, SvelteKit
 
 ## Backend
 
-- PHP, Laravel
-- Python, Django
-- NodeJS, ExpressJS
+### PHP, Laravel
+
+### Python, Django
+
+### NodeJS, ExpressJS
 
 ## DevOps
 
-- Docker
-- Kubernetes
+### Docker
+
+### Kubernetes
 
 ## Blockchain, Crypto, Web 3.0
 
@@ -57,6 +67,8 @@ Please consider contributing to the list with a pull request. For that, check ou
 
 ## Miscellaneous
 
-- News
-- Magazines
-- Articles
+### News
+
+### Magazines
+
+### Articles
