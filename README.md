@@ -6,9 +6,9 @@ Please consider contributing to the list with a pull request. For that, check ou
 
 ## Summary
 
-- <a href="coding">Coding</a>
-- <a href="specific-drives-and-resources">Specific Drives and Resources</a>
-- <a href="clubs">Clubs</a>
+- <a href="#coding">Coding</a>
+- <a href="#specific-drives-and-resources">Specific Drives and Resources</a>
+- <a href="#extracurricular-work-clubs">Clubs</a>
 
 ## Coding
 
