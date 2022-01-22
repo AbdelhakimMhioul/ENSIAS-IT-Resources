@@ -59,7 +59,7 @@ Please consider contributing to the list with a pull request. For that, check ou
 ### Git/Github
 
 - Youtube Vids & Channels
-  - This Video is my special recommendation to learn git : `https://www.youtube.com/watch?v=3fUbBnN_H2c`
+  - [Git/Github](https://www.youtube.com/watch?v=3fUbBnN_H2c) : This Video is my special recommendation to learn git
 - Resources
   - [Github Official Website](https://git-scm.com/)
   - [Git Cheat Sheet](https://ohshitgit.com/)
@@ -138,84 +138,73 @@ Please consider contributing to the list with a pull request. For that, check ou
 ### ENACTUS ENSIAS
 
 - [Official Website](https://enactus-ensias.vercel.app/)
-- Socials
-  - [Facebook Page or Group](https://web.facebook.com/Enactus-National-School-Of-Computer-Science-104902884773450)
-  - [Linkedin Page](https://www.linkedin.com/company/enactus-ensias/mycompany/)
-  - [Github Organization](https://github.com/ENACTUS-Ensias)
+- [Facebook Page or Group](https://web.facebook.com/Enactus-National-School-Of-Computer-Science-104902884773450)
+- [Linkedin Page](https://www.linkedin.com/company/enactus-ensias/mycompany/)
+- [Github Organization](https://github.com/ENACTUS-Ensias)
 
 ### Club Quran ENSIAS
 
 - Official Website
-- Socials
-  - [Facebook Page or Group](https://web.facebook.com/clubquran)
-  - [Linkedin Page](https://www.linkedin.com/company/club-quran-ensias/)
+- [Facebook Page or Group](https://web.facebook.com/clubquran)
+- [Linkedin Page](https://www.linkedin.com/company/club-quran-ensias/)
 
 ### Olympiades ENSIAS
 
 - [Official Website](https://www.olympiadesensias.ma/)
-- Socials
-  - [Facebook Page or Group](https://web.facebook.com/groups/1187612815082968/user/100020407200003/)
-  - [Linkedin Page](https://www.linkedin.com/company/olympiades-ensias/)
+- [Facebook Page or Group](https://web.facebook.com/groups/1187612815082968/user/100020407200003/)
+- [Linkedin Page](https://www.linkedin.com/company/olympiades-ensias/)
 
 ### IT ENSIAS
 
 - Official Website
-- Socials
-  - [Facebook Page or Group](https://web.facebook.com/ensiasitclub)
-  - [Linkedin Page](https://www.linkedin.com/company/ensias-it-club/)
+- [Facebook Page or Group](https://web.facebook.com/ensiasitclub)
+- [Linkedin Page](https://www.linkedin.com/company/ensias-it-club/)
 
 ### IEEE ENSIAS
 
 - Official Website
-- Socials
-  - [Facebook Page or Group](https://web.facebook.com/ieee.ensias.studentb)
-  - [Linkedin Page](https://www.linkedin.com/company/ieee-ensias-student-branch/)
+- [Facebook Page or Group](https://web.facebook.com/ieee.ensias.studentb)
+- [Linkedin Page](https://www.linkedin.com/company/ieee-ensias-student-branch/)
 
 ### Bridge ENSIAS
 
 - Official Website
-- Socials
-  - [Facebook Page or Group](https://web.facebook.com/ensiasbridgeclub)
-  - [Linkedin Page](https://www.linkedin.com/company/ensias-bridge/)
+- [Facebook Page or Group](https://web.facebook.com/ensiasbridgeclub)
+- [Linkedin Page](https://www.linkedin.com/company/ensias-bridge/)
 
 ### Cindh ENSIAS
 
 - Official Website
-- Socials
-  - [Facebook Page or Group](https://www.linkedin.com/company/club-d%E2%80%99initiative-nationale-du-d%C3%A9veloppement-humain/)
-  - [Linkedin Page](https://web.facebook.com/cindh.ensias)
+- [Facebook Page or Group](https://www.linkedin.com/company/club-d%E2%80%99initiative-nationale-du-d%C3%A9veloppement-humain/)
+- [Linkedin Page](https://web.facebook.com/cindh.ensias)
 
 ### Robotics ENSIAS
 
 - Official Website
-- Socials
-  - [Facebook Page or Group](https://web.facebook.com/ensias.ensias.58)
-  - [Linkedin Page](https://www.linkedin.com/company/robotics-club-ensias/)
+- [Facebook Page or Group](https://web.facebook.com/ensias.ensias.58)
+- [Linkedin Page](https://www.linkedin.com/company/robotics-club-ensias/)
 
 ### ENSIAS AI
 
 - Official Website
-- Socials
-  - [Facebook Page or Group](https://web.facebook.com/ensiasai/)
-  - [Linkedin Page](https://www.linkedin.com/company/ensiasai/)
+- [Facebook Page or Group](https://web.facebook.com/ensiasai/)
+- [Linkedin Page](https://www.linkedin.com/company/ensiasai/)
+- [Github Organization](https://github.com/ensiasAI)
 
 ### INSEC ENSIAS
 
 - Official Website
-- Socials
-  - [Facebook Page or Group](https://web.facebook.com/ensiasinsec/)
-  - [Linkedin Page](https://www.linkedin.com/company/insec-ensias/)
+- [Facebook Page or Group](https://web.facebook.com/ensiasinsec/)
+- [Linkedin Page](https://www.linkedin.com/company/insec-ensias/)
 
 ### Fintech ENSIAS
 
 - Official Website
-- Socials
-  - [Facebook Page or Group](https://web.facebook.com/fintech.ensias)
-  - [Linkedin Page](https://www.linkedin.com/company/fintech-ensias/)
+- [Facebook Page or Group](https://web.facebook.com/fintech.ensias)
+- [Linkedin Page](https://www.linkedin.com/company/fintech-ensias/)
 
 ### Géni ENSIAS
 
 - Official Website
-- Socials
-  - [Facebook Page or Group](https://web.facebook.com/geni.ensias.7)
-  - [Linkedin Page](https://www.linkedin.com/in/forum-geni-7b887b119/)
+- [Facebook Page or Group](https://web.facebook.com/geni.ensias.7)
+- [Linkedin Page](https://www.linkedin.com/in/forum-geni-7b887b119/)
