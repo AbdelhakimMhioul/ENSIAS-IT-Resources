@@ -1,7 +1,7 @@
 # ENSIAS-IT-Resources
 
 Hello guys, This is some resources that I found very useful when learning Web Development & Other resources as well. <br>
-Feel free to check them out and give it a :star: if you like it. You can also check the brand new Github Pages Version. <br>
+Feel free to check them out and give it a :star: if you like it. <br>
 Please consider contributing to the list with a pull request. For that, check out the [Contributing Manual](https://github.com/AbdelhakimMhioul/ENSIAS-IT-Resources/blob/main/CONTRIBUTING.md).
 
 ## Summary
