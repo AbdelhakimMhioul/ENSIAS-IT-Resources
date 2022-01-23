@@ -13,7 +13,7 @@ Please consider contributing to the list with a pull request. For that, check ou
 
 ## General
 
-- Guide du Bizou
+- [Guide du Bizou](Documents/guide.pdf)
 
 ## Coding
 
