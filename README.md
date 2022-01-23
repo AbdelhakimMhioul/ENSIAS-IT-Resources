@@ -68,7 +68,6 @@ Please consider contributing to the list with a pull request. For that, check ou
   - [AWAE VIDEOS](https://awae.hide01.ir/#video-path=media/video/COPY_00_00.mp4&time-offset=8)
   - [OSEP VIDEOS](https://pen300.hide01.ir/#video-path=media/video/COPY_00_00.mp4&time-offset=7)
   - [pwk2020v2.pdf](https://mega.nz/file/QAE2hJwK#kRdGzhIGQAFmFqK27-iqxLWHgcVGyUgucZgYjuZWL1w)
-  - [SANS+OFFENSIVE SEC materials](magnet:?xt=urn:btih:f91feb6d2ea93f1c3c03b6be52051c2df72da1b7&dn=CERTCOLLECTION+-+BASELINE+-+SANS+%26+Offensive-Security&tr=udp%3A//tracker.coppersurfer.tk%3A6969&tr=udp%3A//tracker.zer0day.to%3A1337&tr=udp%3A//public.popcorn-tracker.org%3A6969&tr=udp%3A//tracker.leechers-paradise.org%3A6969&tr=udp%3A//explodie.org%3A6969)
   - [50% PENTESTER ACADEMY materials](https://mega.nz/folder/vaQHlIQb#i8B7gVZmR46O2FC67U15UA)
 
 ### Git/Github
