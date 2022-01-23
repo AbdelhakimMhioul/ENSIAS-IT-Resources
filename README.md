@@ -6,9 +6,14 @@ Please consider contributing to the list with a pull request. For that, check ou
 
 ## Summary
 
+- <a href="#general">General</a>
 - <a href="#coding">Coding</a>
 - <a href="#specific-drives-and-resources">Specific Drives and Resources</a>
-- <a href="#extracurricular-work-clubs">Clubs</a>
+- <a href="#extracurricular-work-clubs">Extracurricular Work (Clubs)</a>
+
+## General
+
+- Guide du Bizou
 
 ## Coding
 
@@ -30,7 +35,7 @@ Please consider contributing to the list with a pull request. For that, check ou
   - [Awesome Symphony](https://github.com/sitepoint-editors/awesome-symfony)
   - [Symphony Certification Guide](https://github.com/raulconti/symfony-3-certification-guide)
 - JavaScript
-  - [LearnC.org](https://www.learn-c.org/)
+  - [LearnJS.org](https://www.learn-js.org/)
 - Databases
   - [LearnSQL](https://www.learnsqlonline.org/)
 
@@ -45,6 +50,8 @@ Please consider contributing to the list with a pull request. For that, check ou
   - [Web Dev Simplified](https://www.youtube.com/c/WebDevSimplified)
   - [Traversy Media](https://www.youtube.com/c/TraversyMedia)
   - [Programming with Mosh](https://www.youtube.com/c/programmingwithmosh)
+- Articles
+  - [CSS Tricks](https://css-tricks.com/)
 
 ### Robotics
 
@@ -55,6 +62,14 @@ Please consider contributing to the list with a pull request. For that, check ou
 
 - Youtube Channels
   - [The Cyber Mentor](https://www.youtube.com/c/TheCyberMentor)
+- Resources
+  - [Cybersecurity training](https://hide01.ir/)
+  - [OSCP VIDEOS](https://pwk.hide01.ir/#video-path=media/video/COPY_00_00.mp4&time-offset=0)
+  - [AWAE VIDEOS](https://awae.hide01.ir/#video-path=media/video/COPY_00_00.mp4&time-offset=8)
+  - [OSEP VIDEOS](https://pen300.hide01.ir/#video-path=media/video/COPY_00_00.mp4&time-offset=7)
+  - [pwk2020v2.pdf](https://mega.nz/file/QAE2hJwK#kRdGzhIGQAFmFqK27-iqxLWHgcVGyUgucZgYjuZWL1w)
+  - [SANS+OFFENSIVE SEC materials](magnet:?xt=urn:btih:f91feb6d2ea93f1c3c03b6be52051c2df72da1b7&dn=CERTCOLLECTION+-+BASELINE+-+SANS+%26+Offensive-Security&tr=udp%3A//tracker.coppersurfer.tk%3A6969&tr=udp%3A//tracker.zer0day.to%3A1337&tr=udp%3A//public.popcorn-tracker.org%3A6969&tr=udp%3A//tracker.leechers-paradise.org%3A6969&tr=udp%3A//explodie.org%3A6969)
+  - [50% PENTESTER ACADEMY materials](https://mega.nz/folder/vaQHlIQb#i8B7gVZmR46O2FC67U15UA)
 
 ### Git/Github
 
@@ -83,6 +98,7 @@ Please consider contributing to the list with a pull request. For that, check ou
 
 ### Useful Github Repos
 
+- [Developer Circle Casablanca](https://github.com/DevC-Casa)
 - [Tech Resources](https://github.com/andou/tech-resources)
 
 ### Fun Stuff
@@ -92,7 +108,7 @@ Please consider contributing to the list with a pull request. For that, check ou
   - [Piano](https://open.spotify.com/playlist/2q7U9Dh7buTnrwHEWxcxiq?si=292bf27d43764565)
 - Youtube Music Vids & Channels
   - [Coding](https://www.youtube.com/watch?v=M5QY2_8704o)
-    -Podcasts
+- Podcasts
   - [Geeks BlaBla](https://web.facebook.com/geeksblabla/)
 
 ## Specific Drives and Resources
@@ -101,11 +117,15 @@ Please consider contributing to the list with a pull request. For that, check ou
 
 - [ENSIAS - StackOverflow Facebook Group](https://web.facebook.com/groups/678083456442026)
 - [ENSIAS_2A_Github_Repo](https://github.com/UnessU/2A-ENSIAS)
+- [Official Drive](https://drive.google.com/drive/folders/1YxhLTBKOtj_hcjWa8ZYslGg88JJUiwBD)
+- [Lasse9 S2 Drive](https://drive.google.com/drive/folders/1WTa9_dGZGp9iTP-FOIuI2EWNuqx9bSwh)
 
 ### IWIM
 
 - Drives
+  - [IWIM 2A](https://drive.google.com/drive/folders/1gOnnQlFzBY-pAfMyKWqWSB8sU-icc880)
 - Utility Links
+  - [IWIM All Promos - Facebook Group](https://web.facebook.com/groups/697433963741940)
 - Resources
 - Github Repos
   - [TPs-JEE-IWIM](https://github.com/choubari/TPs-JEE-IWIM)
@@ -113,6 +133,11 @@ Please consider contributing to the list with a pull request. For that, check ou
 ### SSI
 
 - Drives
+  - [SSI 2A](https://drive.google.com/drive/u/0/folders/0B3Az729i08eDZjh6OTVSMk1vdGM)
+  - [SSI 2A (2)](https://drive.google.com/drive/u/0/folders/0B9kTx9Wa2BQQUm41dlFsTDQzdU0)
+  - [SSI 2023](https://drive.google.com/drive/folders/1U9SPmk9rMzFIMJIA3swCfEkrJM7yiU7o)
+  - [SSI_CLASS_2021](https://drive.google.com/drive/folders/1QZ8hjL_-bZ42njgv589GOGrgOdQ84u4P)
+  - [SSI2021](https://drive.google.com/drive/folders/15UgSOxPDNZvDWaJPFsjuSg9SB8tF_O_x)
 - Utility Links
   - [ENSIAS_SSI_3A Github Repo](https://github.com/mohammedelamrani/ENSIAS_SSI_3A)
 - Resources
@@ -122,7 +147,21 @@ Please consider contributing to the list with a pull request. For that, check ou
 ### GL
 
 - Drives
+  - [GL 2A](https://drive.google.com/drive/folders/1ToixVNUn3FdgA8RDzAWGLNGjOvvE8YOE)
+  - [GL S3](https://drive.google.com/drive/u/0/folders/1AMYX3k69I9qWMe73CbzPlS--uJ4E2dlX)
+  - [POA](https://drive.google.com/drive/folders/134VAPraxp1mgwuAEKNbhlIXzAMgh--sN)
+  - [Records Lasse9 Stati & TCP/IP](https://drive.google.com/drive/folders/1E7nVMVmwa0dxrCpDOvh-CViy7Gz6q69a)
+  - [Semester 4 GL](https://drive.google.com/drive/folders/1eTotm4h6cAF6sBn8eDiEg4zAPlhO2AQe)
 - Utility Links
+- Resources
+- Github Repos
+
+### ISEM
+
+- [Official Website](https://sites.google.com/view/ensias-isem/acceuil)
+- Drives
+- Utility Links
+  - [ISEM/SSE (ENSIAS) - All promos - Facebook Group](https://web.facebook.com/groups/817646025459335/)
 - Resources
 - Github Repos
 
@@ -130,6 +169,15 @@ Please consider contributing to the list with a pull request. For that, check ou
 
 - Drives
 - Utility Links
+  - [Ensias e-MBI - Facebook Group](https://web.facebook.com/groups/505007606719781/)
+- Resources
+- Github Repos
+
+### IDF
+
+- Drives
+- Utility Links
+  - [IDF ENSIAS Toutes les Promos - Facebook Group](https://web.facebook.com/groups/270918511581995/)
 - Resources
 - Github Repos
 
