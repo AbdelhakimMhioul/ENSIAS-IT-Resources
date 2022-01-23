@@ -183,6 +183,9 @@ Please consider contributing to the list with a pull request. For that, check ou
 
 ## Extracurricular work (Clubs)
 
+<p align="right">
+  <a href="#summary">Back To Top</a>
+</p>
 ### ENACTUS ENSIAS
 
 - [Official Website](https://enactus-ensias.vercel.app/)
