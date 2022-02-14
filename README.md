@@ -25,7 +25,7 @@ Please consider contributing to the list with a pull request. For that, check ou
 
 - C
   - [LearnC.org](https://www.learn-c.org/)
-  - Youtube Vids & Channels
+  - Youtube Videos & Channels
     - [Learn Makefiles 1](https://www.youtube.com/watch?v=_r7i5X0rXJk)
     - [Learn Makefiles 2](https://www.youtube.com/watch?v=GExnnTaBELk)
 - Java/JEE
